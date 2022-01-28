@@ -23,5 +23,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsh1561&show_icons=true&locale=en" alt="darsh1561" /></p>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=darsh1561&show_icons=true&locale=en" />
+
+</details>
+
 [twitter]: https://twitter.com/DarshTurakhia?s=08
 [linkedin]: https://www.linkedin.com/in/darsh-turakhia-011000195
