@@ -28,7 +28,11 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=darsh1561&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+</details>
 
 [twitter]: https://twitter.com/DarshTurakhia?s=08
 [linkedin]: https://www.linkedin.com/in/darsh-turakhia-011000195
