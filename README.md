@@ -31,9 +31,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.darsh1561.vercel.app/api?username=darsh1561&show_icons=true&hide_border=true" />
+  <img align="left" alt="Darsh GitHub Stats" src="https://github-readme-stats.darsh1561.vercel.app/api?username=darsh1561&show_icons=true&hide_border=true" />
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/DarshTurakhia?s=08
+[linkedin]: https://www.linkedin.com/in/darsh-turakhia-011000195
