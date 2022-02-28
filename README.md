@@ -8,13 +8,14 @@
 - ⚡ Fun fact: I love to listen to songs.
 - 👋 Some More Projects: [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Presence:</h3>
 <p align="left">
 <a href="https://twitter.com/darshturakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshturakhia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darsh turakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsh turakhia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16905451" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16905451" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gpu19162171009" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gpu19162171009" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darshturakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshturakhia" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/DarshTurakhia" target="_blank"><img align="center" src="" alt="DarshTurakhia" height="30" width="40"></a>
 </p>
 
 <details>
