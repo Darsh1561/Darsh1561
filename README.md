@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Develop many new projects.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen to songs.
-- 👋 Some More Projects: [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
+- 👨‍💻 All of my projects are available at [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
 
 <h3 align="left">Social Presence:</h3>
 <p align="left">
