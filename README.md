@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen to songs.
 - 👨‍💻 All of my projects are available at [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
+- ✍️ [Try Hack Me Profile](https://tryhackme.com/badge/829286)
 
 <h3 align="left">Social Presence:</h3>
 <p align="left">
