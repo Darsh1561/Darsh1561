@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Develop many new projects.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen to songs.
-- 🥇 RHCSA certified linux engineer.
+- 🥇 RHCSA certified linux engineer. View my [Badge](https://www.credly.com/badges/854f4334-3c1d-47d4-89ab-9472407fce4f/public_url)
 - 👨‍💻 All of my projects are available at [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
 
 <h3 align="left">Social Presence:</h3>
