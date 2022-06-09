@@ -27,18 +27,9 @@
 
 </details>
 
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=darsh1561&theme=solarized-dark&show_icons=true)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=darsh1561&theme=solarized-dark&show_icons=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Github Trophies</summary>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsh1561" alt="darsh1561" /></a> </p>
+[Github Trophies](https://github-profile-trophy.vercel.app/?username=darsh1561)
 
 </details>
 
