@@ -28,7 +28,5 @@ Languages and Tools
 
 [Github Trophies](https://github-profile-trophy.vercel.app/?username=darsh1561)
 
-</details>
-
 [twitter]: https://twitter.com/DarshTurakhia?s=08
 [linkedin]: https://www.linkedin.com/in/darsh-turakhia-011000195
