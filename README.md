@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=darsh1561&theme=solarized-dark&show_icons=true" />
 
 </details>
 
