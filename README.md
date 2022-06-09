@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Darsh Turakhia](https://github.com/orgs/Darsh-Turakhia/repositories)
 - 🚧 View my contributions in 3D here [2022](https://skyline.github.com/Darsh1561/2022) [2021](https://skyline.github.com/Darsh1561/2021) [2019](https://skyline.github.com/Darsh1561/2019)
 
-<h3 align="left">Social Presence:</h3>
+<h3 align="left">Social Presence</h3>
 <p align="left">
 <a href="https://twitter.com/darshturakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshturakhia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darsh turakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsh turakhia" height="30" width="40" /></a>
