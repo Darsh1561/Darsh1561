@@ -12,7 +12,7 @@
 
 <h3 align="left">Social Presence</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darsh turakhia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsh turakhia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darsh-turakhia-011000195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsh turakhia" height="30" width="40" /></a>
 </p>
 
 Languages and Tools
