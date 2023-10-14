@@ -1,9 +1,8 @@
 ### Hi there, I'm Darsh Turakhia 👋 
 
-- 🔭 I’m currently pursuing my B.Tech CSE (sp. Cyber Security) Degree.
+- 🔭 I’m an engineering grad from Institute of Computer Technology, Ganpat University, Ahmedabad, Gujarat, India with a degree of B.Tech CSE (sp. Cyber Security).
 - 🌱 I’m currently learning ethical hacking.
 - 💬 Ask me anything about programming.
-- 🥅 2022 Goals: Develop many new projects.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen to songs.
 - 🥇 RHCSA certified linux engineer. View my [Badge](https://www.credly.com/badges/854f4334-3c1d-47d4-89ab-9472407fce4f/public_url)
